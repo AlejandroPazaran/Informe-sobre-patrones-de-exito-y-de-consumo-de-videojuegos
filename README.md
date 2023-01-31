@@ -1,0 +1,2 @@
+# Informe-sobre-patrones-de-exito-y-de-consumo-de-videojuegos
+Para la tienda online de videojuegos Ice se analizarán datos históricos referentes a la venta de videojuegos, se pretende identificar patrones que determinen el éxito de un juego, y comprender los hábitos de consumo de los principales perfiles de compradores, para poder detectar proyectos prometedores y planificar campañas publicitarias.
